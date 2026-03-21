@@ -1,0 +1,26 @@
+{
+  "name": "playwright-orangehrm-framework",
+  "version": "1.0.0",
+  "description": "Playwright automation framework for OrangeHRM using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:smoke": "npx playwright test --grep @smoke",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report",
+    "test:chromium": "npx playwright test --project=chromium"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "orangehrm"
+  ],
+  "author": "Chintha Bala Narasimhulu",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "dotenv": "^16.6.1"
+  }
+}
