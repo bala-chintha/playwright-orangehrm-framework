@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config({ override: false });
 
 const { defineConfig, devices } = require('@playwright/test');
 
