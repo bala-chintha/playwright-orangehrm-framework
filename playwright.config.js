@@ -12,15 +12,19 @@ module.exports = defineConfig({
   reporter: [['html'], ['list']],
   use: {
     baseURL: process.env.BASE_URL,
-    headless: true,
+    headless: !!process.env.CI,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'on-first-retry',
+    actionTimeout: 15000,
+    navigationTimeout: 30000,
   },
   projects: [
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      use: {
+        ...devices['Desktop Chrome']
+      },
     },
   ],
 });

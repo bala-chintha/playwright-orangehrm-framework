@@ -9,7 +9,7 @@ class BasePage {
     }
 
     async waitForElement(locator) {
-        await locator.waitFor({ state: 'visible', timeout: 15000 });
+        await locator.waitFor({ state: 'visible' });
     }
 }
 
