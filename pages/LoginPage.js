@@ -11,20 +11,19 @@ class LoginPage extends BasePage {
         this.loginButton = this.page.getByRole('button', { name: /login/i });
         this.errorAlert = this.page.locator('.oxd-alert-content-text');
         this.fieldError = this.page.locator('.oxd-input-field-error-message').first();
-
     }
+    
     async goto() {
         await this.navigate(PAGE_URL);
         await this.waitForElement(this.usernameInput);
-
-
     }
+
     async login(username, password) {
         await this.usernameInput.fill(username);
         await this.passwordInput.fill(password);
         await this.loginButton.click();
-
     }
+
     async getErrorAlertText() {
         await this.errorAlert.waitFor({ state: 'visible' });
         return this.errorAlert.innerText();
