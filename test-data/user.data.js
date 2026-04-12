@@ -5,7 +5,7 @@ const generateUserData = () => {
         password: 'Admin@123456',
         role: 'ESS',
         status: 'Enabled',
-        employeeName: 'Manda'
+        employeeName: 'ad'
     };
 };
 
