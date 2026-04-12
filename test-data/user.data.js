@@ -5,14 +5,14 @@ const generateUserData = () => {
         password: 'Admin@123456',
         role: 'ESS',
         status: 'Enabled',
-        employeeName: 'Chanda'
+        employeeName: 'Manda'
     };
 };
 
 const USER_SEARCH_FIXTURES = {
     KNOWN_USERNAME: 'Admin',
 };
-
+s
 const INVALID_USER_FIXTURES = {
     NONEXISTENT_USERNAME: 'xyzinvaliduser000',
 };
