@@ -27,7 +27,7 @@ class AddEmployeePage extends BasePage {
     }
 
     async save() {
-        await this.saveButton.click();
+        await this.saveButton.first().click();
         await this.waitForElement(this.successToast);
     }
 

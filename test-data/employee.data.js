@@ -8,13 +8,12 @@ const generateEmployeeData = () => {
 };
 
 const EMPLOYEE_SEARCH_FIXTURES = {
-    KNOWN_FIRST_NAME: 'John',
-    KNOWN_FULL_NAME: 'John Doe',
+    KNOWN_FIRST_NAME: 'John'
 };
 
 const INVALID_SEARCH_FIXTURES = {
     NONEXISTENT_NAME: `invalid_emp_${Date.now()}`,
-    STATIC_NONEXISTENT_NAME: 'zzzNoSuchEmployee000',
+    STATIC_NONEXISTENT_NAME: 'zzzNoSuchEmployee000'
 };
 
 module.exports = {
