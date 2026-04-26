@@ -5,10 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",
+    "test:ui": "npx playwright test --project=chromium",
+    "test:api": "npx playwright test --project=api",
+    "test:hybrid": "npx playwright test --grep @hybrid",
     "test:smoke": "npx playwright test --grep @smoke",
     "test:headed": "npx playwright test --headed",
-    "test:report": "npx playwright show-report",
-    "test:chromium": "npx playwright test --project=chromium"
+    "test:report": "npx playwright show-report"
   },
   "keywords": [
     "playwright",

@@ -9,6 +9,7 @@ module.exports = defineConfig({
   retries: process.env.CI ? 2 : 0,
   workers: process.env.CI ? 1 : undefined,
   reporter: [['html'], ['list']],
+  globalSetup: './global.setup.js',
   use: {
     baseURL: process.env.BASE_URL,
     headless: !!process.env.CI,
@@ -22,6 +23,15 @@ module.exports = defineConfig({
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
+      testMatch: '**/tests/UI/**/*.spec.js',
+    },
+    {
+      name: 'api',
+      use: {
+        actionTimeout: 45000,
+      },
+      testMatch: '**/tests/API/**/*.spec.js',
+      timeout: 120000,
     },
   ],
 });
