@@ -1,1 +1,26 @@
-﻿敲畱物⡥搧瑯湥❶⸩潣普杩⤨഻挊湯瑳笠挠牨浯畩⁭⁽‽敲畱物⡥䀧汰祡牷杩瑨琯獥❴㬩਍潣獮⁴慰桴㴠爠煥極敲✨慰桴⤧഻挊湯瑳映⁳‽敲畱物⡥昧❳㬩਍਍潭畤敬攮灸牯獴㴠愠祳据映湵瑣潩⁮汧扯污敓畴⡰ ൻ †挠湯瑳䄠呕彈䥆䕌㴠瀠瑡⹨敲潳癬⡥彟楤湲浡ⱥ✠汰祡牷杩瑨ⸯ畡桴愯瑵⹨獪湯⤧഻ †映⹳歭楤卲湹⡣慰桴搮物慮敭䄨呕彈䥆䕌Ⱙ笠爠捥牵楳敶›牴敵素㬩਍਍††潣獮⁴牢睯敳⁲‽睡楡⁴档潲業浵氮畡据⡨⁻敨摡敬獳›牴敵素㬩਍††潣獮⁴潣瑮硥⁴‽睡楡⁴牢睯敳⹲敮䍷湯整瑸笨椠湧牯䡥呔卐牅潲獲›牴敵素㬩਍††潣獮⁴慰敧㴠愠慷瑩挠湯整瑸渮睥慐敧⤨഻ഊ †挠湯潳敬氮杯✨湜杛潬慢卬瑥灵⁝潌杧湩⁧湩琠⁯牏湡敧剈⁍潴挠灡畴敲猠獥楳湯挠潯楫⹥⸮⤧഻ഊ †愠慷瑩瀠条⹥潧潴怨笤牰捯獥⹳湥⹶䅂䕓啟䱒⽽敷⽢湩敤⹸桰⽰畡桴氯杯湩⥠഻ †愠慷瑩瀠条⹥楦汬✨湩異孴慮敭∽獵牥慮敭崢Ⱗ瀠潲散獳攮癮䄮䵄义啟䕓乒䵁⥅഻ †愠慷瑩瀠条⹥楦汬✨湩異孴慮敭∽慰獳潷摲崢Ⱗ瀠潲散獳攮癮䄮䵄义偟十坓剏⥄഻ †愠慷瑩瀠条⹥汣捩⡫戧瑵潴孮祴数∽畳浢瑩崢⤧഻ †愠慷瑩瀠条⹥慷瑩潆啲䱒✨⨪搯獡扨慯摲⨪Ⱗ笠琠浩潥瑵›〳〰‰⥽഻ഊ †愠慷瑩挠湯整瑸献潴慲敧瑓瑡⡥⁻慰桴›啁䡔䙟䱉⁅⥽഻ †挠湯潳敬氮杯怨杛潬慢卬瑥灵⁝敓獳潩⁮潣歯敩猠癡摥銆␠䅻呕彈䥆䕌屽恮㬩਍਍††睡楡⁴牢睯敳⹲汣獯⡥㬩਍㭽਍
+﻿require('dotenv').config();
+const { chromium } = require('@playwright/test');
+const path = require('path');
+const fs = require('fs');
+
+module.exports = async function globalSetup() {
+    const AUTH_FILE = path.resolve(__dirname, 'playwright/.auth/auth.json');
+    fs.mkdirSync(path.dirname(AUTH_FILE), { recursive: true });
+
+    const browser = await chromium.launch({ headless: true });
+    const context = await browser.newContext({ ignoreHTTPSErrors: true });
+    const page = await context.newPage();
+
+    console.log('\n[globalSetup] Logging in to OrangeHRM to capture session cookie...');
+
+    await page.goto(`${process.env.BASE_URL}/web/index.php/auth/login`);
+    await page.fill('input[name="username"]', process.env.ADMIN_USERNAME);
+    await page.fill('input[name="password"]', process.env.ADMIN_PASSWORD);
+    await page.click('button[type="submit"]');
+    await page.waitForURL('**/dashboard**', { timeout: 30000 });
+
+    await context.storageState({ path: AUTH_FILE });
+    console.log(`[globalSetup] Session cookie saved → ${AUTH_FILE}\n`);
+
+    await browser.close();
+};
