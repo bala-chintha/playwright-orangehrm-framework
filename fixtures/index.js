@@ -1,1 +1,100 @@
-﻿敲畱物⡥搧瑯湥❶⸩潣普杩⤨഻挊湯瑳笠琠獥㩴戠獡ⱥ爠煥敵瑳素㴠爠煥極敲✨灀慬睹楲桧⽴整瑳⤧഻挊湯瑳笠倠䵏湡条牥素㴠爠煥極敲✨⸮瀯条獥倯䵏湡条牥⤧഻挊湯瑳瀠瑡⁨‽敲畱物⡥瀧瑡❨㬩਍਍潣獮⁴啁䡔䙟䱉⁅‽慰桴爮獥汯敶弨摟物慮敭‬⸧⼮汰祡牷杩瑨ⸯ畡桴愯瑵⹨獪湯⤧഻ഊ攊灸牯獴琮獥⁴‽慢敳攮瑸湥⡤ൻഊ †瀠䵯湡条牥›獡湹⁣笨瀠条⁥ⱽ甠敳 㸽笠਍††††睡楡⁴獵⡥敮⁷佐慍慮敧⡲慰敧⤩഻ †素ബഊ †氠杯湩慐敧›獡湹⁣笨瀠䵯湡条牥素‬獵⥥㴠‾ൻ †††愠慷瑩甠敳瀨䵯湡条牥朮瑥潌楧偮条⡥⤩഻ †素ബഊ †搠獡扨慯摲慐敧›獡湹⁣笨瀠䵯湡条牥素‬獵⥥㴠‾ൻ †††愠慷瑩甠敳瀨䵯湡条牥朮瑥慄桳潢牡偤条⡥⤩഻ †素ബഊ †瀠浩慐敧›獡湹⁣笨瀠䵯湡条牥素‬獵⥥㴠‾ൻ †††愠慷瑩甠敳瀨䵯湡条牥朮瑥楐偭条⡥⤩഻ †素ബഊ †愠摤浅汰祯敥慐敧›獡湹⁣笨瀠䵯湡条牥素‬獵⥥㴠‾ൻ †††愠慷瑩甠敳瀨䵯湡条牥朮瑥摁䕤灭潬敹健条⡥⤩഻ †素ബഊ †氠慥敶慐敧›獡湹⁣笨瀠䵯湡条牥素‬獵⥥㴠‾ൻ †††愠慷瑩甠敳瀨䵯湡条牥朮瑥敌癡健条⡥⤩഻ †素ബഊ †愠灰祬敌癡健条㩥愠祳据⠠⁻潰慍慮敧⁲ⱽ甠敳 㸽笠਍††††睡楡⁴獵⡥潰慍慮敧⹲敧䅴灰祬敌癡健条⡥⤩഻ †素ബഊ †愠浤湩慐敧›獡湹⁣笨瀠䵯湡条牥素‬獵⥥㴠‾ൻ †††愠慷瑩甠敳瀨䵯湡条牥朮瑥摁業偮条⡥⤩഻ †素ബഊ †愠摤獕牥慐敧›獡湹⁣笨瀠䵯湡条牥素‬獵⥥㴠‾ൻ †††愠慷瑩甠敳瀨䵯湡条牥朮瑥摁啤敳偲条⡥⤩഻ †素ബഊ †⼠ 畡桴湥楴慣整⁤楦瑸牵⁥胢ₔ潬獧椠⁮湯散‬癡楡慬汢⁥潴愠汬琠獥獴਍††畡桴湥楴慣整偤条㩥愠祳据⠠⁻慰敧‬潬楧偮条⁥ⱽ甠敳 㸽笠਍††††睡楡⁴潬楧偮条⹥潧潴⤨഻ †††愠慷瑩氠杯湩慐敧氮杯湩ന †††††瀠潲散獳攮癮䄮䵄义啟䕓乒䵁ⱅ਍††††††牰捯獥⹳湥⹶䑁䥍彎䅐卓佗䑒਍††††㬩਍††††睡楡⁴慰敧眮楡䙴牯剕⡌⨧⼪慤桳潢牡⩤✪㬩਍††††睡楡⁴獵⡥慰敧㬩਍††ⱽ਍਍††灡䍩楬湥㩴嬠਍††††獡湹⁣笨素‬獵⥥㴠‾ൻ †††††挠湯瑳挠硴㴠愠慷瑩爠煥敵瑳渮睥潃瑮硥⡴ൻ †††††††戠獡啥䱒›牰捯獥⹳湥⹶䅂䕓啟䱒ബ †††††††猠潴慲敧瑓瑡㩥䄠呕彈䥆䕌ബ †††††††椠湧牯䡥呔卐牅潲獲›牴敵ബ †††††††攠瑸慲呈偔效摡牥㩳笠਍††††††††††䄧捣灥❴›愧灰楬慣楴湯樯潳❮ബ †††††††††✠潃瑮湥⵴祔数㨧✠灡汰捩瑡潩⽮獪湯Ⱗ਍††††††††ⱽ਍††††††⥽഻ഊ †††††愠慷瑩甠敳笨਍††††††††敧㩴⠠灥 㸽张慣汬挨硴‬朧瑥Ⱗ攠⥰ബ †††††††瀠獯㩴⠠灥‬慤慴 㸽张慣汬挨硴‬瀧獯❴‬灥‬慤慴Ⱙ਍††††††††異㩴⠠灥‬慤慴 㸽张慣汬挨硴‬瀧瑵Ⱗ攠Ɒ搠瑡⥡ബ †††††††搠汥瑥㩥⠠灥‬慤慴 㸽张慣汬挨硴‬搧汥瑥❥‬灥‬慤慴Ⱙ਍††††††⥽഻ഊ †††††愠慷瑩挠硴搮獩潰敳⤨഻ †††素ബ †††笠猠潣数›眧牯敫❲素ബ †崠ബഊ紊㬩਍਍硥潰瑲⹳硥数瑣㴠爠煥極敲✨灀慬睹楲桧⽴整瑳⤧攮灸捥㭴਍਍獡湹⁣畦据楴湯张慣汬挨硴‬敭桴摯‬湥灤楯瑮‬慤慴㴠渠汵⥬笠਍††潣獮⁴灯獴㴠笠㭽਍††晩⠠慤慴℠㴽渠汵⥬漠瑰⹳慤慴㴠搠瑡㭡਍਍††潣獮⁴敲⁳‽睡楡⁴瑣學敭桴摯⡝湥灤楯瑮‬灯獴㬩਍††潣獮⁴整瑸㴠愠慷瑩爠獥琮硥⡴㬩਍††敬⁴潢祤㴠渠汵㭬਍††牴⁹⁻潢祤㴠琠硥⁴‿半乏瀮牡敳琨硥⥴㨠渠汵㭬素挠瑡档笠戠摯⁹‽整瑸※ൽഊ †爠瑥牵⁮ൻ †††猠慴畴㩳爠獥献慴畴⡳Ⱙ਍††††歯›敲⹳歯⤨ബ †††戠摯ⱹ਍††††慤慴›潢祤⸿慤慴㼠‿畮汬ബ †素഻紊਍
+﻿require('dotenv').config();
+const { test: base, request } = require('@playwright/test');
+const { POManager } = require('../pages/POManager');
+const path = require('path');
+
+const AUTH_FILE = path.resolve(__dirname, '../playwright/.auth/auth.json');
+
+exports.test = base.extend({
+
+    poManager: async ({ page }, use) => {
+        await use(new POManager(page));
+    },
+
+    loginPage: async ({ poManager }, use) => {
+        await use(poManager.getLoginPage());
+    },
+
+    dashboardPage: async ({ poManager }, use) => {
+        await use(poManager.getDashboardPage());
+    },
+
+    pimPage: async ({ poManager }, use) => {
+        await use(poManager.getPimPage());
+    },
+
+    addEmployeePage: async ({ poManager }, use) => {
+        await use(poManager.getAddEmployeePage());
+    },
+
+    leavePage: async ({ poManager }, use) => {
+        await use(poManager.getLeavePage());
+    },
+
+    applyLeavePage: async ({ poManager }, use) => {
+        await use(poManager.getApplyLeavePage());
+    },
+
+    adminPage: async ({ poManager }, use) => {
+        await use(poManager.getAdminPage());
+    },
+
+    addUserPage: async ({ poManager }, use) => {
+        await use(poManager.getAddUserPage());
+    },
+
+    // authenticated fixture — logs in once, available to all tests
+    authenticatedPage: async ({ page, loginPage }, use) => {
+        await loginPage.goto();
+        await loginPage.login(
+            process.env.ADMIN_USERNAME,
+            process.env.ADMIN_PASSWORD
+        );
+        await page.waitForURL('**/dashboard**');
+        await use(page);
+    },
+
+    apiClient: [
+        async ({ }, use) => {
+            const ctx = await request.newContext({
+                baseURL: process.env.BASE_URL,
+                storageState: AUTH_FILE,
+                ignoreHTTPSErrors: true,
+                extraHTTPHeaders: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json',
+                },
+            });
+
+            await use({
+                get: (ep) => _call(ctx, 'get', ep),
+                post: (ep, data) => _call(ctx, 'post', ep, data),
+                put: (ep, data) => _call(ctx, 'put', ep, data),
+                delete: (ep, data) => _call(ctx, 'delete', ep, data),
+            });
+
+            await ctx.dispose();
+        },
+        { scope: 'worker' },
+    ],
+
+});
+
+exports.expect = require('@playwright/test').expect;
+
+async function _call(ctx, method, endpoint, data = null) {
+    const opts = {};
+    if (data !== null) opts.data = data;
+
+    const res = await ctx[method](endpoint, opts);
+    const text = await res.text();
+    let body = null;
+    try { body = text ? JSON.parse(text) : null; } catch { body = text; }
+
+    return {
+        status: res.status(),
+        ok: res.ok(),
+        body,
+        data: body?.data ?? null,
+    };
+}

@@ -1,1 +1,30 @@
-﻿敲畱物⡥搧瑯湥❶⸩潣普杩⤨഻挊湯瑳笠䄠楰汃敩瑮素㴠爠煥極敲✨⼮灡䍩楬湥❴㬩਍਍潣獮⁴牣慥整灁䍩楬湥⁴‽獡湹⁣⤨㴠‾ൻ †挠湯瑳挠楬湥⁴‽敮⁷灁䍩楬湥⡴牰捯獥⹳湥⹶䅂䕓啟䱒㬩਍††睡楡⁴汣敩瑮愮瑵敨瑮捩瑡⡥牰捯獥⹳湥⹶䑁䥍彎单剅䅎䕍‬牰捯獥⹳湥⹶䑁䥍彎䅐卓佗䑒㬩਍††敲畴湲挠楬湥㭴਍㭽਍਍潣獮⁴敧䙴瑵牵䑥瑡⁥‽搨祡䙳潲乭睯 㸽笠਍††潣獮⁴慤整㴠渠睥䐠瑡⡥㬩਍††慤整献瑥慄整搨瑡⹥敧䑴瑡⡥ ‫慤獹牆浯潎⥷഻ †挠湯瑳礠祹⁹‽慤整朮瑥畆汬教牡⤨഻ †挠湯瑳洠⁭‽瑓楲杮搨瑡⹥敧䵴湯桴⤨⬠ㄠ⸩慰卤慴瑲㈨‬〧⤧഻ †挠湯瑳搠⁤‽瑓楲杮搨瑡⹥敧䑴瑡⡥⤩瀮摡瑓牡⡴ⰲ✠✰㬩਍††敲畴湲怠笤祹祹⵽笤浭⵽笤摤恽഻紊഻ഊ挊湯瑳朠瑥畃牲湥奴慥⁲‽⤨㴠‾敮⁷慄整⤨朮瑥畆汬教牡⤨഻挊湯瑳朠湥牥瑡啥楮畱䥥⁤‽瀨敲楦⁸‽愧瑵❯ 㸽笠਍††潣獮⁴畳晦硩㴠䴠瑡⹨慲摮浯⤨琮卯牴湩⡧㘳⸩畳獢牴湩⡧ⰲ㘠⸩潴灕数䍲獡⡥㬩਍††敲畴湲怠笤牰晥硩彽笤慄整渮睯⤨彽笤畳晦硩恽഻紊഻ഊ洊摯汵⹥硥潰瑲⁳‽ൻ †挠敲瑡䅥楰汃敩瑮ബ †朠瑥畆畴敲慄整ബ †朠瑥畃牲湥奴慥Ⱳ਍††敧敮慲整湕煩敵摉ബ紊഻
+﻿require('dotenv').config();
+const { ApiClient } = require('./apiClient');
+
+const createApiClient = async () => {
+    const client = new ApiClient(process.env.BASE_URL);
+    await client.authenticate(process.env.ADMIN_USERNAME, process.env.ADMIN_PASSWORD);
+    return client;
+};
+
+const getFutureDate = (daysFromNow) => {
+    const date = new Date();
+    date.setDate(date.getDate() + daysFromNow);
+    const yyyy = date.getFullYear();
+    const mm = String(date.getMonth() + 1).padStart(2, '0');
+    const dd = String(date.getDate()).padStart(2, '0');
+    return `${yyyy}-${mm}-${dd}`;
+};
+
+const getCurrentYear = () => new Date().getFullYear();
+const generateUniqueId = (prefix = 'auto') => {
+    const suffix = Math.random().toString(36).substring(2, 6).toUpperCase();
+    return `${prefix}_${Date.now()}_${suffix}`;
+};
+
+module.exports = {
+    createApiClient,
+    getFutureDate,
+    getCurrentYear,
+    generateUniqueId,
+};
